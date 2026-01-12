@@ -1,0 +1,8 @@
+boto3
+minio
+pandas
+faker
+psycopg2-binary
+pyspark
+pyarrow
+s3fs
